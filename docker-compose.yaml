@@ -1,0 +1,7 @@
+version: "2"
+services:
+  firefox:
+    build: "./robo-firefox"
+    volumes:
+      - "./robots:/opt/robots"
+      - "./outputs:/opt/outputs"
