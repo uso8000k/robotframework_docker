@@ -18,7 +18,7 @@ Input PeeringDB Form
     Press Key                   search   \\13
 
 Click PeeringDB Link
-    Click Link                  Google Inc. (15169)
+    Click Link                  Google LLC (15169)
 
 Show PeeringDB Result
     Page Should Contain         google          
